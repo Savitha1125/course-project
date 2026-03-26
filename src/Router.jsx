@@ -35,7 +35,7 @@ export default function Router() {
             </>
           }
         />
-
+        <Route path="/courses" element={<FullStackPage />} />
         {/* Individual course pages */}
         <Route path="/fullstack" element={<FullStackPage />} />
         <Route path="/flutter" element={<FlutterPage />} />
