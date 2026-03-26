@@ -296,13 +296,13 @@ export default function FlutterPage() {
         {/* Decorative Left Image */}
         <img
           src={image1}
-          className="absolute left-0 sm:-left-12 md:-left-24 bottom-0 xl:bottom-84 w-16 sm:w-20 md:w-[90px] -z-0"
+          className="absolute left-0 sm:-left-12 md:-left-48 bottom-0 xl:bottom-84 w-16 sm:w-20 md:w-[90px] -z-0"
         />
 
         {/* Decorative Right Image */}
         <img
           src={cloudright}
-          className="absolute right-0 sm:-right-12 md:-right-24 bottom-0 xl:bottom-84 w-16 sm:w-20 md:w-[90px] xl:w-25 -z-0"
+          className="absolute right-0 sm:-right-12 md:-right-45 bottom-0 xl:bottom-84 w-16 sm:w-20 md:w-[90px] xl:w-25 -z-0"
         />
 
         {/* Header Section */}
