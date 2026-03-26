@@ -61,7 +61,7 @@ export default function Home () {
         <img
           src={image}
           alt="Hero Illustration"
-          className="w-full ml-20"
+          className="w-full ml-20 "
         />
       </div>
 

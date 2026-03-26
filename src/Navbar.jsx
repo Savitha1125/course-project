@@ -58,8 +58,8 @@ export default function Navbar() {
         <div className="container mx-auto px-4 sm:px-6 md:px-6 py-4 flex justify-between items-center">
           {/* Logo LEFT */}
           <div className="flex flex-col items-start">
-            <span className="text-xl sm:text-2xl font-bold text-[#f17424] pl-2 sm:pl-6 md:pl-27">Nschool</span>
-            <span className="text-md tracking-widest text-[#19467E] pl-2 sm:pl-6 md:pl-27">Academy</span>
+            <span className="text-xl sm:text-2xl font-bold text-[#f17424] pl-2 sm:pl-6 md:pl-10">Nschool</span>
+            <span className="text-md tracking-widest text-[#19467E] pl-2 sm:pl-6 md:pl-10">Academy</span>
           </div>
           {/* Menu RIGHT */}
          <ul className="hidden md:flex gap-6 text-gray-700 text-sm sm:text-base pr-4 sm:pr-6 md:pr-10">
